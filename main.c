@@ -8,7 +8,7 @@ int d = 0;
 int a, b, c;                        /*Declare three variables*/
 
 system("jp2a [图片位置] --background=light --colors"); /*填写你图片的位置*/
-system("echo  '\033[31m tao-toiols: 1.0.0 \033[0m'");
+system("echo  '\033[31m tao-tool: 1.0.0 \033[0m'");
 system("echo  '\033[31m Programmer: tao-Program \033[0m'");
 system("echo  '\033[31m [*] If you are interested, you can make it more powerful. \033[0m'");
 
