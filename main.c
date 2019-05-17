@@ -7,7 +7,6 @@ int main(int argc, char *argv[]){
 int d = 0;
 int a, b, c;                        /*Declare three variables*/
 
-system("jp2a [你的图片的地址] --background=light --colors");
 system("echo  '\033[31m tao-toiols: 1.0.0 \033[0m'");
 system("echo  '\033[31m Programmer: tao-Program \033[0m'");
 system("echo  '\033[31m [*] If you are interested, you can make it more powerful. \033[0m'");
